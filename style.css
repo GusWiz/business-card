@@ -3,6 +3,7 @@
     height: 250px
 }
 
-.body {
-    background-color: red;
+.card {
+    border: 1px dotted blue;
+    padding: 20px;
 }
