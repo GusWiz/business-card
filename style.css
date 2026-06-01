@@ -1,5 +1,6 @@
 body {
     margin: 20px;
+    font-family: sans-serif, Verdana, Geneva, Tahoma;
 }
 .avatar {
     width: 200px;
@@ -24,3 +25,7 @@ body {
     border: 1px dotted blue;
 }
 
+.info {
+    display: flexbox;
+    align-content: center;
+}
