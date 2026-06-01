@@ -11,20 +11,20 @@ body {
     width: 400px;
     margin: 0 auto;
     display: flex;
-    border: 1px dotted blue;
     padding: 20px;
     justify-content: space-around;
     text-align: center;
-    color: #2b2839;
+    color: #f0ead2;
     border-bottom: 10px solid #d8cefe;
-    background-color: #ddebf8;
+    background-color: #4f772d;
 }
 
-.blue-border {
-    border: 1px dotted blue;
+.dotted-border {
+    border: 3px dotted #2699e5;
 }
 
 .info {
     display: flexbox;
     align-content: center;
+    background-color: #6c584c;
 }
