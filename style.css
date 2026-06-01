@@ -15,16 +15,16 @@ body {
     justify-content: space-around;
     text-align: center;
     color: #f0ead2;
-    border-bottom: 10px solid #d8cefe;
     background-color: #4f772d;
+    box-shadow: 4px 8px 12px 2px rgba(180, 76, 240, 0.306);
 }
 
 .dotted-border {
-    border: 3px dotted #2699e5;
+    border: 3px dotted #d384df;
+    border-bottom: 10px solid #d384df;
 }
 
 .info {
-    display: flexbox;
     align-content: center;
     background-color: #6c584c;
 }
